@@ -53,32 +53,28 @@
 <hr>
 <h2 align="center">💬 My Projects</h2>
 <div align="center">
-  <div style="text-align: left; width: 400px">
-    Typescript:
-    <ol>
-      <li>
-        <a href="https://www.npmjs.com/package/@material-zui/core">https://www.npmjs.com/package/@material-zui/core
-        </a>
-      </li>
-      <li>
-        <a href="https://www.npmjs.com/package/@material-zui/node">https://www.npmjs.com/package/@material-zui/node
-        </a>
-      </li>
-      <li>
-        <a href="https://www.npmjs.com/package/@material-zui/angular">https://www.npmjs.com/package/@material-zui/angular
-        </a>
-      </li>
-      <li>
-        <a href="https://www.npmjs.com/package/@material-zui/react">https://www.npmjs.com/package/@material-zui/react
-        </a>
-      </li>
-    </ol>
-    <div>
-      Python: <a href="https://pypi.org/project/material-zui">https://pypi.org/project/material-zui</a>
-    </div>
-    <div>
-      Go: <a href="https://github.com/chauhoangminhnguyen/material-zui-go">https://github.com/chauhoangminhnguyen/material-zui-go</a>
-    </div>
+  Typescript:
+  <div>
+    <a href="https://www.npmjs.com/package/@material-zui/core">https://www.npmjs.com/package/@material-zui/core
+    </a>
+  </div>
+  <div>
+    <a href="https://www.npmjs.com/package/@material-zui/node">https://www.npmjs.com/package/@material-zui/node
+    </a>
+  </div>
+  <div>
+    <a href="https://www.npmjs.com/package/@material-zui/angular">https://www.npmjs.com/package/@material-zui/angular
+    </a>
+  </div>
+  <div>
+    <a href="https://www.npmjs.com/package/@material-zui/react">https://www.npmjs.com/package/@material-zui/react
+    </a>
+  </div>
+  <div>
+    Python: <a href="https://pypi.org/project/material-zui">https://pypi.org/project/material-zui</a>
+  </div>
+  <div>
+    Go: <a href="https://github.com/chauhoangminhnguyen/material-zui-go">https://github.com/chauhoangminhnguyen/material-zui-go</a>
   </div>
 </div>
 
@@ -95,6 +91,12 @@
 <p align="center">
   <a href="mailto:chauhoangminhnguyen@gmail.com?subject=Hello%20Chau,"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/chauhoangminhnguyen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<hr>
+<h2 align="center">⚡ Support Me</h2>
+<p align="center" align='right'>
+  <a href="https://www.buymeacoffee.com/chauhoangminhnguyen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
 
 <hr>
